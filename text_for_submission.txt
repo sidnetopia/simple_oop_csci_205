@@ -1,0 +1,5 @@
+github repo (made public for now): https://github.com/sidnetopia/simple_oop_csci_205
+plans for app: I propose an API that provides flood prediction data for a given location. 
+Users will input the latitude and longitude of their area of interest, and the API will run a predictive model to assess the potential flooding effects in that region. 
+With this, benefactors such as local government units, disaster response teams, urban planners, and residents in flood-prone areas 
+can make informed decisions through data.
